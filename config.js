@@ -1,12 +1,12 @@
 const CONFIG = {
 
-    introTitle: 'Babe à!',
+    introTitle: 'Câụ à!',
 
     introDesc: `Trái đất vốn lạ thường
 
-    Mà sao em cứ đi nhầm đường
+    Mà sao cậu cứ đi nhầm đường
 
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim tôi lẻ loi
 
     Đằng sau chữ yêu đây là thương`,
 
@@ -26,7 +26,7 @@ const CONFIG = {
 
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
 
-    mess: 'Tôi biết mà 🥰. Yêu Câuh nhiều nhiều 😘😘',
+    mess: 'Tôi biết mà 🥰. Yêu Cậu nhiều nhiều 😘😘',
 
     messDesc: 'Vâỵ từ nay cậu phải ở bên tôi .',
 
