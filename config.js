@@ -15,5 +15,9 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Vâỵ từ nay hãy để tôi bên cạnh bạn ♥️nhá .',
     btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/vuongvantrang21
+
 
 }
+
+
